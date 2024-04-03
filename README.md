@@ -1,8 +1,7 @@
 
 
 
-https://github.com/alfredo1995/GantierGames/assets/71193893/18fe4531-0f19-4db2-83f4-54341a28d220
-
+https://github.com/alfredo1995/GantierGames/assets/71193893/773263a4-08e2-462e-96e4-01308ba70002
 
 
 * A board game;
