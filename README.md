@@ -1,45 +1,47 @@
 
-https://github.com/alfredo1995/GantierGames/assets/71193893/ba88bef1-77eb-42ed-8b59-ab1ccad6da22
 
 
-* Um jogo de tabuleiro;
+https://github.com/alfredo1995/GantierGames/assets/71193893/773263a4-08e2-462e-96e4-01308ba70002
 
-* Tabuleiro 5 x 5, 5 linhas e 5 colunas, 25 células
 
-* Cada célula com tamanho de 1 x 1
+* A board game;
 
-* Dois jogadores, cada jogador representado por um peão, um na cor branca e outro na cor preta;
+* Board 5 x 5, 5 rows and 5 columns, 25 cells
 
-* O peão branco inicia na extrema direita do tabuleiro, ou seja na coluna 4;
+* Each cell with size of 1 x 1
 
-* O peão preto inicia na extrema esquerda ou seja na coluna 0;
+* Two players, each player represented by a pawn, one in white and the other in black;
 
-* A célula que cada um dos peões deve iniciar será selecionada randomicamente dentro da coluna especificada;
+* The white pawn starts on the far right of the board, that is, on column 4;
 
-* O objetivo é chegar primeiro no outro lado, ou seja, peão branco na coluna 0 e peão preto na coluna 4;
+* The black pawn starts on the far left, i.e. on file 0;
 
-* Os peões não podem se sobrepor, nem passar um por cima do outro;
+* The cell that each pawn must start in will be selected randomly within the specified column;
 
-* O jogo é em turnos, primeiro joga o jogador do peão branco e depois o do peão preto;
+* The objective is to reach the other side first, that is, white pawn on column 0 and black pawn on column 4;
 
-* A movimentação dos peões pode ser para direita, esquerda, frente e traz;
+* Pedestrians cannot overlap or pass over each other;
 
-* O jogador deverá tirar a sorte para saber quantas células poderá andar, sendo no mínimo 0 e no máximo 2;
+* The game is in turns, the player with the white pawn plays first and then the player with the black pawn;
 
-* Quando o primeiro peão chegar do outro lado, é adicionado uma vitória ao jogador correspondente e iniciado uma nova partida;
+* Pedestrians can move to the right, left, forward or backward;
 
-* Será disputada 5 partidas por desafio, ganha o desafio o jogador que ganhar 3 partidas;
+* The player must draw lots to find out how many cells he can move, with a minimum of 0 and a maximum of 2;
 
-* Deverá ter uma tela de menu, com a opção de iniciar partida e outra com sair do jogo;
+* When the first pawn arrives on the other side, a victory is added to the corresponding player and a new game begins;
 
-* Ao clicar em partida deverá aparecer uma tela para o jogador colocar um nome e um botão para entrar no desafio;
+* 5 matches will be played per challenge, the player who wins 3 matches wins the challenge;
 
-* A HUD da partida deverá ter o nome do jogador do peão branco no canto direito e do jogador do peão preto no canto esquerdo, ambos em baixo;
+* There should be a menu screen, with the option to start the game and another to exit the game;
 
-* Entre o nome dos jogadores terá um botão, que o jogador que estiver na sua vez de jogar deverá clicar para que um número de 0 a 2 seja sorteado, este número será a quantidade de células que o peão poderá se movimentar;
+* When clicking on match, a screen should appear for the player to enter a name and a button to enter the challenge;
 
-* Na parte central da HUD em cima deverá ter o número de partidas que cada um dos jogadores ganhou;
+* The game HUD must have the name of the white pawn player in the right corner and the black pawn player in the left corner, both at the bottom;
 
-* Quando uma partida for finalizada deverá aparecer na tela uma mensagem para quem ganhou - "Você ganhou" - e uma mensagem para quem perdeu - "Você perdeu" ;
+* Between the players' names there will be a button, which the player whose turn it is to play must click so that a number from 0 to 2 is drawn, this number will be the number of cells that the pawn can move;
 
-* No final do desafio deve aparecer uma mensagem - "Parabéns Você Ganhou o Desafio" - para o jogador que venceu o desafio e uma mensagem de - "Tente Novamente" - para quem perdeu;
+* In the central part of the HUD at the top there should be the number of matches that each player has won;
+
+* When a match is finished, a message should appear on the screen for those who won - "You won" - and a message for those who lost - "You lost";
+
+* At the end of the challenge, a message should appear - "Congratulations, You Won the Challenge" - for the player who won the challenge and a message - "Try Again" - for whoever lost;
