@@ -1,0 +1,30 @@
+* Event Graph
+
+	- Começando o Big Player Cosntruction, Ao começar o jogo ele constroi a cena e já limpa tudo (Grid e os filhos de referencias)
+	- Criar um for, criando uma widget para cada filho, fazendo uma grid 5x5 e verificar onde vai setar a grid. Colocando cada peao(img) dentro de um grid, deixando todos invisiveis.
+	- Seto o qual peao que quero visivel (laranja e preto) e qual casa inicial ele começa. Referenciando eles atraves de uma variavel para dizer qual casa começou. (Começa o jogo com cada peao das suas respectivas casas)
+
+	- Referencio o botao jogar, verificando se pode ser clicado, verifico de quem e a vez fazendo um fli flop, executando a função (Atualizar laranja ou preta)
+
+* AtualizarLaranja (function)
+
+	- Crio um variavel setando o random nela, na coluna e linha. Informa na UI qual foi a variavel, verificando se foi negativos os valores para transformar-lo em absoluto. 
+	- Entro no foor, varrendo os peoes que estao dentro do grid e verificar qual peao esta visivivel. Posteiromente apago e verifico qual direção randomica ele esta indo na função SetProximoPeao
+
+* SetProximoPeao (function) 
+
+	- Vai inciar um for para verificar ser existe alguem na proxima linha que sera andada.  Se tiver alguem, ele estará colidindo, não move e devolve a visibilidade para o peao (parando o loop).
+	- Se não tiver algeum na cedula, desativo o peoa que estava visivel e seto o proximo peao como visivel na cedula da frente. Dando a impressão que o peao foi movimentado. (em seguida return)
+	
+* AtualizarLaranja (retornar)
+
+	- Continuo a verificação, se colidiu ele termina o loop. 
+	- Se não colidiu, verifica se a linha que chegou foi a 4 (a ultima casa para dar vitoria), se chegou ele AtualizarPlacar (function) para dar o ponto ou a vitoria. Reniciando o tabuleiro.
+
+* AtualizarPlacar (function)
+
+	- Seto o texto de 1 ponto na UI. Se ja tiverem 3 pontos, seto o texto de Vitoria e a animação, vericando de quem é a vitoria. 
+
+* AtualizarLaranja (retornar)
+	
+	- Faço um novo for, agora para coluna, verifando ser vai para esquerda (-2) ou direita (2) por meio de um variavel randomica aleatoria.
