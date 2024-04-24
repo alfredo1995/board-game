@@ -45,3 +45,18 @@ https://github.com/alfredo1995/RandomBoard-Multiplayer/assets/71193893/96f954e3-
 * When a match is finished, a message should appear on the screen for those who won - "You won" - and a message for those who lost - "You lost";
 
 * At the end of the challenge, a message should appear - "Congratulations, You Won the Challenge" - for the player who won the challenge and a message - "Try Again" - for whoever lost;
+
+Technical details
+
+    💡 Multiplayer system: The game supports multiplayer matches between 2 players, with a central server that manages the game state and replicates information to clients.
+
+    💡 GameState: The server maintains a GameState that represents the overall state of the game, including the position of the pieces on the board, the player's turn, and the score.
+
+    💡 PlayerState: A PlayState was created to store important information about each player, such as name, color of pieces, and current state of the game.
+
+    💡 Player management: The server updates the game state and replicates the information to all players
+
+    💡 State replication: The server uses MultiCast to replicate PlayerState and GameState to all connected clients.
+
+    💡 Game Events: Custom events used to communicate player actions between the client and server
+
