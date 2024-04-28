@@ -61,3 +61,8 @@ Technical details
 
     💡 Game Events: Custom events used to communicate player actions between the client and server
 
+Project Architecture
+
+![arquitetura-server-multiplayer-replicate-multicast](https://github.com/alfredo1995/multiplayer-server-replicate-multicast/assets/71193893/0ff4a708-0829-4ad3-b74d-a77f9fad8621)
+
+
