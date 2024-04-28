@@ -60,6 +60,7 @@ Technical details
     💡 GameState: Storing and managing global game information that all players need access to during the match.
         Server: Managing the game rules, updating the state of the virtual world according to the players' actions.
         MultiCast: Allows the server to send a single message to multiple players simultaneously
+        RepNotify : Synchronize the state of duplicated random variables between the server and clients
 
     💡 Widget: Creates the user interface (UI) elements that players interact with during gameplay.
         Logic: Build the scene, move the pieces, check the game conditions, call animations and other functions.
