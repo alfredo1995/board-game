@@ -49,7 +49,7 @@ Meeting the Requirements
 
 Project Architecture
 
-![arquitetura-server-multiplayer-replicate-multicast](https://github.com/alfredo1995/multiplayer-server-replicate-multicast/assets/71193893/14b2c63a-92ba-449a-8d85-00ba7ca5770f)
+![arquitetura-server-multiplayer-replicate-multicast](https://github.com/alfredo1995/multiplayer-server-replicate-multicast/assets/71193893/fd35c3f0-269d-4c0b-9d07-5dfbf45a5bde)
 
 Technical details
 
