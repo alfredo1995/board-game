@@ -49,17 +49,21 @@ Meeting the Requirements
 
 Technical details
 
-    💡 Multiplayer system: The game supports multiplayer matches between 2 players, with a central server that manages the game state and replicates information to clients.
+    💡 GameMode: Defined as general game rules and behavior.
+        Level: Responsible for creating the game's visual and sound scene
+        PlayerControler: Responsible for the commands that the game character can understand and execute.
 
-    💡 GameState: The server maintains a GameState that represents the overall state of the game, including the position of the pieces on the board, the player's turn, and the score.
+    💡 GameState: Storing and managing global game information that all players need access to during the match.
+        Server: Managing the game rules, updating the state of the virtual world according to the players' actions.
+        MultiCast: Allows the server to send a single message to multiple players simultaneously
 
-    💡 PlayerState: A PlayState was created to store important information about each player, such as name, color of pieces, and current state of the game.
+    💡 Widget: Creates the user interface (UI) elements that players interact with during gameplay.
+        Logic: Build the scene, move the pieces, check the game conditions, call animations and other functions.
 
-    💡 Player management: The server updates the game state and replicates the information to all players
-
-    💡 State replication: The server uses MultiCast to replicate PlayerState and GameState to all connected clients.
-
-    💡 Game Events: Custom events used to communicate player actions between the client and server
+    💡 PlayState: Centralizes the data that needs to be shared and synchronized between the server and all connected clients.
+        Request: Fulfill data requests related to player information for this multiplayer game.
+        Replicate: Synchronizes data between the server and clients, ensuring all players have insight into each other's actions.
+	 
 
 Project Architecture
 
