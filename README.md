@@ -47,6 +47,10 @@ Meeting the Requirements
 
     💡 At the end of the challenge, a message should appear - "Congratulations, You Won the Challenge" - for the player who won the challenge and a message - "Try Again" - for whoever lost;
 
+Project Architecture
+
+![arquitetura-server-multiplayer-replicate-multicast](https://github.com/alfredo1995/multiplayer-server-replicate-multicast/assets/71193893/0ff4a708-0829-4ad3-b74d-a77f9fad8621)
+
 Technical details
 
     💡 GameMode: Defined as general game rules and behavior.
@@ -63,10 +67,5 @@ Technical details
     💡 PlayState: Centralizes the data that needs to be shared and synchronized between the server and all connected clients.
         Request: Fulfill data requests related to player information for this multiplayer game.
         Replicate: Synchronizes data between the server and clients, ensuring all players have insight into each other's actions.
-	 
-
-Project Architecture
-
-![arquitetura-server-multiplayer-replicate-multicast](https://github.com/alfredo1995/multiplayer-server-replicate-multicast/assets/71193893/0ff4a708-0829-4ad3-b74d-a77f9fad8621)
 
 
