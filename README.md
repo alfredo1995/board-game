@@ -43,10 +43,6 @@ Meeting the Requirements
 
     💡 In the central part of the HUD at the top there should be the number of matches that each player has won;
 
-    💡 When a match is finished, a message should appear on the screen for those who won - "You won" - and a message for those who lost - "You lost";
-
-    💡 At the end of the challenge, a message should appear - "Congratulations, You Won the Challenge" - for the player who won the challenge and a message - "Try Again" - for whoever lost;
-
 Project Architecture
 
 ![arquitetura-server-multiplayer-replicate-multicast](https://github.com/alfredo1995/multiplayer-server-replicate-multicast/assets/71193893/fd35c3f0-269d-4c0b-9d07-5dfbf45a5bde)
