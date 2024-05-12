@@ -7,7 +7,7 @@ Meeting the Requirements
 
     💡 A board game;
 
-    💡 Board 5 x 5, 5 rows and 5 columns, 25 cells
+    💡 Board 5 x 5, 5 rows and 5 columns, 25 cells 
 
     💡 Each cell with size of 1 x 1
 
