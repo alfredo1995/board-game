@@ -1,6 +1,4 @@
 
-
-
 https://github.com/alfredo1995/RandomBoard-Multiplayer/assets/71193893/96f954e3-30a4-4767-a9e6-54426db334b8
 
 Meeting the Requirements
