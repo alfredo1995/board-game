@@ -4,7 +4,7 @@
 https://github.com/alfredo1995/RandomBoard-Multiplayer/assets/71193893/96f954e3-30a4-4767-a9e6-54426db334b8
 
 Meeting the Requirements
-
+  
     💡 A board game;
 
     💡 Board 5 x 5, 5 rows and 5 columns, 25 cells 
