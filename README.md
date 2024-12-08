@@ -5,7 +5,7 @@ Project Architecture
 
 ![arquitetura-server-multiplayer-replicate-multicast](https://github.com/alfredo1995/multiplayer-server-replicate-multicast/assets/71193893/fd35c3f0-269d-4c0b-9d07-5dfbf45a5bde)
 
-Technical details
+Technical details 
 
     💡 GameMode: Defined as general game rules and behavior.
         Level: Responsible for creating the game's visual and sound scene
