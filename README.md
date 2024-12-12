@@ -1,7 +1,7 @@
 
 https://github.com/alfredo1995/RandomBoard-Multiplayer/assets/71193893/96f954e3-30a4-4767-a9e6-54426db334b8
  
-Project Architecture 
+Project Architecture  
 
 ![arquitetura-server-multiplayer-replicate-multicast](https://github.com/alfredo1995/multiplayer-server-replicate-multicast/assets/71193893/fd35c3f0-269d-4c0b-9d07-5dfbf45a5bde)
 
