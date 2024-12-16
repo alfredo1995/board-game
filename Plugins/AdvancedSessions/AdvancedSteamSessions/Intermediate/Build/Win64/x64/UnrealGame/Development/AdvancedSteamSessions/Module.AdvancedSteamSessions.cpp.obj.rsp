@@ -1,11 +1,11 @@
-"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board 5.3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
-/FI"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board 5.3\Intermediate\Build\Win64\x64\MyProject\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board 5.3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Yu"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board 5.3\Intermediate\Build\Win64\x64\MyProject\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board 5.3\Intermediate\Build\Win64\x64\MyProject\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board 5.3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-/sourceDependencies "C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board 5.3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.dep.json"
-@"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board 5.3\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamSessions.Shared.rsp"
+"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
+/FI"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board\Intermediate\Build\Win64\x64\MyProject\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/FI"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Yu"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board\Intermediate\Build\Win64\x64\MyProject\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
+/Fp"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board\Intermediate\Build\Win64\x64\MyProject\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+/sourceDependencies "C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.dep.json"
+@"C:\Users\alfre\OneDrive\Documentos\GitHub\networking-board\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealGame\Development\AdvancedSteamSessions\AdvancedSteamSessions.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

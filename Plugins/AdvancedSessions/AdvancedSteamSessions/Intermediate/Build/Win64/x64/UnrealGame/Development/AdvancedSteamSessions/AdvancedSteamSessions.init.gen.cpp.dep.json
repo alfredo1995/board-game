@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\alfre\\onedrive\\documentos\\github\\networking-board 5.3\\plugins\\advancedsessions\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsteamsessions\\uht\\advancedsteamsessions.init.gen.cpp",
+        "Source": "c:\\users\\alfre\\onedrive\\documentos\\github\\networking-board\\plugins\\advancedsessions\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsteamsessions\\uht\\advancedsteamsessions.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\alfre\\onedrive\\documentos\\github\\networking-board 5.3\\intermediate\\build\\win64\\x64\\myproject\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\alfre\\onedrive\\documentos\\github\\networking-board\\intermediate\\build\\win64\\x64\\myproject\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\alfre\\onedrive\\documentos\\github\\networking-board 5.3\\plugins\\advancedsessions\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h"
+            "c:\\users\\alfre\\onedrive\\documentos\\github\\networking-board\\plugins\\advancedsessions\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\advancedsteamsessions\\definitions.advancedsteamsessions.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
