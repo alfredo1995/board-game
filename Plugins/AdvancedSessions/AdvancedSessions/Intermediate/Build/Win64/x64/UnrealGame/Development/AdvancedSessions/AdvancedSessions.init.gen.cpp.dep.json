@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\alfre\\onedrive\\documentos\\github\\networking-board 5.3\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsessions\\uht\\advancedsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\alfre\\onedrive\\documentos\\github\\networking-board 5.3\\intermediate\\build\\win64\\x64\\myproject\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\alfre\\onedrive\\documentos\\github\\networking-board 5.3\\plugins\\advancedsessions\\advancedsessions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\advancedsessions\\definitions.advancedsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

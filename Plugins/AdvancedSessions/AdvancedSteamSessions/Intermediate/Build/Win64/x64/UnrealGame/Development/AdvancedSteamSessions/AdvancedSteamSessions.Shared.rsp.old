@@ -134,6 +134,8 @@
 /I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UnrealGame\Inc\AdvancedSessions\UHT"
 /I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSessions\Source"
 /I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "..\Plugins\Runtime\Steam\SteamShared\Source\SteamShared\Public"
+/I "..\Plugins\Runtime\Steam\SteamShared\Source"
 /external:W0
 /external:I "ThirdParty\mimalloc\include"
 /external:I "ThirdParty\LibTiff\Source\Win64"
